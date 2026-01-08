@@ -4,11 +4,19 @@ Architected a secure, scalable AWS network using Amazon VPC, with public and pri
 Building and Securing a VPC (in order):
 
 https://learn.nextwork.org/delighted_pink_calm_dill/docs/aws-networks-vpc
+
 https://learn.nextwork.org/delighted_pink_calm_dill/docs/aws-networks-security
+
 https://learn.nextwork.org/delighted_pink_calm_dill/docs/aws-networks-private
+
 https://learn.nextwork.org/delighted_pink_calm_dill/docs/aws-networks-ec2
+
 https://learn.nextwork.org/delighted_pink_calm_dill/docs/aws-networks-connectivity
+
 https://learn.nextwork.org/delighted_pink_calm_dill/docs/aws-networks-peering
+
 https://learn.nextwork.org/delighted_pink_calm_dill/docs/aws-networks-monitoring
+
 https://learn.nextwork.org/delighted_pink_calm_dill/docs/aws-networks-s3
+
 https://learn.nextwork.org/delighted_pink_calm_dill/docs/aws-networks-endpoints
